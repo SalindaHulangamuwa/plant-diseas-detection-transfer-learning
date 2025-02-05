@@ -19,3 +19,12 @@ and cause extensive damage. Moreover, precision agriculture techniques leverage 
 insights to optimize resource allocation, ensuring that treatments are applied only where and 
 when necessary. This approach not only reduces the environmental footprint of agricultural 
 activities but also enhances the efficiency and sustainability of farming practices.
+
+
+Test on CNN model
+![image](https://github.com/user-attachments/assets/2bced176-1b75-4175-9f2e-587e058a82a0)
+
+Test on Transfer Learning model
+![image](https://github.com/user-attachments/assets/e8fd3d20-6331-4e09-8ec5-018e078617f0)
+
+
